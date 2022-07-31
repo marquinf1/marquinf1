@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Designer
 - 🌱 I’m currently learning Python  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @marquinf1 on Instagram
+- 📫 How to reach me @marquinferra on Instagram
 
 <!---
 marquinf1/marquinf1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
